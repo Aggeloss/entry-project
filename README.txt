@@ -1,4 +1,4 @@
-The Client_Entry is under construction but it's a demonstration of what will look like the final result
+The Client_Entry is under construction but it's a demonstration of what the final result will look like
 and how it works in general. It will have four basic methods Insert, Delete, Update, Select and apart from
 the method Procedure, they will be created some more methods associated with SQL cursors and procedures, like Procedure
 method in Java, as well as, the entire project is going to be modified on demands.
